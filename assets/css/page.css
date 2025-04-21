@@ -154,6 +154,7 @@ section:nth-of-type(7) {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-position: left;
   height: 1500px;
   text-align: center;
 }
